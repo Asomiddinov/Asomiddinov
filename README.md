@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asomiddinov
 - 👀 I’m interested in Python 
-- 🌱 I’m currently doing project usingPython
+- 🌱 I’m currently doing project using Python
 - 💞️ I’m looking to collaborate on development company
 - 📫 How to reach me basomiddinov@gmail.com
 
