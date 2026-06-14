@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bobir @Asomiddinov;
-- 👀 I’m data scientist and pythonist;
-- 🌱 I’m currently doing startup named Babai.io which means business automation by AI;
-- 💞️ I’m looking for intelligent people who can join our team to develop a startup;
+- 👀 I’m founder & data scientist of Babai Systems;
+- 🌱 Babai.io stands for business automation by AI;
+- 💞️ I’m looking for intelligent people who can join our team to sell our product more and more;
 - 📫 You can reach me mailing me to basomiddinov@gmail.com.
 
 <!---
